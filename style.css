@@ -1,0 +1,47 @@
+.sign-in-btn{
+
+    background-color: #21B573;
+    ;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.p-red{
+    color: red;
+}
+.p-gray{
+    color: gray;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.nav-item{
+    padding: 9px 25px;
+}
+
+.cat1, .cat2, .cat3, .cat4{
+    padding: 10px 30px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.online-courses{
+    text-align: center;
+}
+
+#con{
+    padding-bottom: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: #282531;
+    color: white;
+    padding-top: 40px;
+    ;
+}
